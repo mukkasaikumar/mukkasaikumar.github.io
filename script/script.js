@@ -1,5 +1,5 @@
 // add class navbarDark on navbar scroll
-let text = 'Hai, I am Venkat \u{1F91D}'; 
+let text = 'Hai, I am Sai Kumar Mukka\u{1F91D}'; 
 let i = 0;
 let speed = 100; 
 let typewriterSound = document.getElementById("typewriter_sound");
